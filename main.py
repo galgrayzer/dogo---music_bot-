@@ -20,7 +20,6 @@ YDL_OPTIONS = {
     'quiet': True,
     'no_warnings': True,
     'default_search': 'auto',
-    # bind to ipv4 since ipv6 addresses cause issues sometimes
     'source_address': '0.0.0.0'
 }
 
@@ -116,7 +115,7 @@ async def resume(ctx):
 
 def main():
     sys('cls')
-    bot.run('TOKEN')
+    bot.run('ODgwOTMzMTk1Njk5MzQzNDQw.YSle-A.FdM8NY8gSb468FjsCVgufuhQJVo')
 
 
 if __name__ == '__main__':
