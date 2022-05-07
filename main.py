@@ -115,7 +115,7 @@ async def resume(ctx):
 
 def main():
     sys('cls')
-    bot.run('ODgwOTMzMTk1Njk5MzQzNDQw.YSle-A.FdM8NY8gSb468FjsCVgufuhQJVo')
+    bot.run('TOKEN')
 
 
 if __name__ == '__main__':
